@@ -1,3 +1,5 @@
+**[Generative Adversarial Network paper에 대해 정리한 글](https://github.com/All4Nothing/papers-repo/tree/main/Generative%20Adversarial%20Nets)**
+
 ## Generative Adversarial Network
 
 **Discriminative Model**: learns how to classify input to its class
