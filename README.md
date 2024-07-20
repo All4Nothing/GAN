@@ -27,7 +27,7 @@ Generator($G(z)$는 랜덤한 코드(sample latent code $z$ from Gaussian distir
 
 ### Equation
 
-$min_G\ max_D\ V(D,G) = E_{x∼p_{data(x)}}[logD(x)]+E_{z∼p_z(z)}[log(1−D(G(z)))]$
+$\underset{G}{min}\ \underset{D}{max}\ V(D,G) = E_{x∼p_{data(x)}}[logD(x)]+E_{z∼p_z(z)}[log(1−D(G(z)))]$
 
 - $x$ : Sample x from real data distribution
 - $z$ : Sample latent code $z$ from Gaussian distribution
